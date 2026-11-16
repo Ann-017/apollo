@@ -1,3 +1,0 @@
-This is just a plain text file to 
-demonstrate git operations.
-Don't need a program, just text
